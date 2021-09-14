@@ -1,4 +1,4 @@
-package com.permissionx.jiaweidev
+package com.jiaweidev.permissionx
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4

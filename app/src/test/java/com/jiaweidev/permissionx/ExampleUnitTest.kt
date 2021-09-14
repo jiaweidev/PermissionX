@@ -1,4 +1,4 @@
-package com.permissionx.app
+package com.jiaweidev.permissionx
 
 import org.junit.Test
 
